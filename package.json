@@ -1,0 +1,23 @@
+{
+  "name": "results-summary-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Results summary component coding challenge](./preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass scss/main.scss css/style.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userMauro-code/results-summary-component-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/userMauro-code/results-summary-component-main/issues"
+  },
+  "homepage": "https://github.com/userMauro-code/results-summary-component-main#readme",
+  "devDependencies": {
+    "sass": "^1.97.1"
+  }
+}
